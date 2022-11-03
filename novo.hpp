@@ -8,4 +8,4 @@ class Intruso{
     public:
         void set_senha_vazada(std::string vazou);
         std::string crack_senha();
-}
+};
